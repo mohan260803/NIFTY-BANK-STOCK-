@@ -8,6 +8,6 @@ For most stock investors the favourite question is how long should we hold stock
 # Data
 The data has been taken from kaggle and has 955 rows and 6 columns. Data had no null values and was easy to work on.
 
-#Outcome
+# Outcome
 Used KNN algorithm to get an accuracy of 1.0(100%) and precision score of 1.0
 
